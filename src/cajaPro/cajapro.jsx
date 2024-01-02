@@ -12,7 +12,7 @@ const CajaPro = ()=>{
             <div>
               <div className="row bg-dark">
 
-                <div className="col-lg-4 col-md-6 col-sm-12 p-4 m-2">
+                <div className="col-lg-4 col-md-6 col-sm-12 p-4 ">
                    <div className="card p-2">
                       <img src={pro1} className="card-img-top" alt="proeyectos" />
                         <div className="card-body">
@@ -27,7 +27,7 @@ const CajaPro = ()=>{
                     </div>
                   </div>   
 
-                  <div className="col-lg-4 col-md-6 col-sm-12 p-4 m-2">
+                  <div className="col-lg-4 col-md-6 col-sm-12 p-4 ">
                    <div className="card p-2">
                       <img src={pro2} className="card-img-top" alt="proyectos" />
                         <div className="card-body ">
@@ -39,7 +39,7 @@ const CajaPro = ()=>{
                       </div>
                     </div>
                   </div>   
-                  <div className="col-lg-4 col-md-6 col-sm-12 p-4 m-2">
+                  <div className="col-lg-4 col-md-6 col-sm-12 p-4 ">
                    <div className="card p-2">
                       <img src={pro3} className="card-img-top" alt="proyectos" />
                         <div className="card-body ">
